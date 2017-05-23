@@ -1,0 +1,2 @@
+# The-Encryption-Algorithm-
+a program to encrypt and decrypt text using an encryption algorithm. Such an algorithm describes a process that turns plaintext into what looks like gibberish (we'll call this ciphertext), and decrypts the ciphertext back into plaintext. For example, the program will be able to take a secret message written in ciphertext, and figure out what it says. ... Like: XHXZCHRYTMWEHOPPB
